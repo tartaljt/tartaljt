@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @tartaljt
+- 👀 I’m interested in ... Emedded Software
+- 🌱 I’m currently learning ... C++ & Website Development
+- 💞️ I’m looking to collaborate on ... Message Me
+- 📫 How to reach me ... Discord@euporiexxxiv
+- 😄 Pronouns: ... He/Him 
+- ⚡ Fun fact: ...
