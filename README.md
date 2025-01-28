@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @tartaljt
-- 👀 I’m interested in ... Emedded Software
-- 🌱 I’m currently learning ... C++ & Website Development
-- 💞️ I’m looking to collaborate on ... Message Me
+- 👀 I’m interested in ... Emedded Software / Low Level Development
+- 🌱 I’m currently learning ... C++ & Website Development & QT
 - 📫 How to reach me ... Discord@euporiexxxiv
-- 😄 Pronouns: ... He/Him 
-- ⚡ Fun fact: ...
